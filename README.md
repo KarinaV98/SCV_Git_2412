@@ -19,4 +19,5 @@ d) Ввести команду *git clone <скопированная ссылк
 ---
 5. На сайте GitHub выполнить **Pull request**.
 Чтобы выполнить Pull request, переходим GitHub и нажимаем на кнопку *Сompare & Pull request*
+![Logo](pullr.png)
 ---
